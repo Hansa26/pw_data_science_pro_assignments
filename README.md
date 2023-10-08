@@ -87,5 +87,8 @@ An electronics firm is developing ultra-powerful 3D-printed sensors to guide tom
 - Shanghai Changjiang Science and Technology Development used IBM® Watson® technology to build an AI-based medical assessment platform that can analyze existing medical records to categorize patients based on their risk of experiencing a stroke and that can predict the success rate of different treatment plans.
 
 [Source: https://www.ibm.com/topics/data-science]
+
+
+
 This repository is to submit the assignments and projects given from PW Full Stack Data Science Pro course.
 
