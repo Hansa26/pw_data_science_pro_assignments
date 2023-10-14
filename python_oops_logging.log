@@ -1,0 +1,365 @@
+INFO-2023-10-14 07:43:47,337-Starting PW Banking Services!
+INFO-2023-10-14 07:43:50,226-PW Banking Menu:
+1. Open Account
+2. Close Account
+3. Deposit
+4. Withdraw
+5. Balance
+6. Exit
+
+INFO-2023-10-14 07:43:50,226-User entered : 1
+INFO-2023-10-14 07:43:52,327-Account Holder Name = Hansa
+INFO-2023-10-14 07:43:56,672-Mobile number of Hansa is 8971077273
+DEBUG-2023-10-14 07:43:56,672-This is a new account holder.
+INFO-2023-10-14 07:44:01,895-PW Banking Menu:
+1. Open Account
+2. Close Account
+3. Deposit
+4. Withdraw
+5. Balance
+6. Exit
+
+INFO-2023-10-14 07:44:01,895-User entered : 3
+INFO-2023-10-14 07:44:07,329-User entered 8971077273
+INFO-2023-10-14 07:44:07,329-Hansa is an existing user.
+INFO-2023-10-14 07:44:10,355-User entered Rs. 2000.0 to deposit.
+INFO-2023-10-14 07:44:10,355-Balance amount is: 2000.0
+INFO-2023-10-14 07:44:15,817-PW Banking Menu:
+1. Open Account
+2. Close Account
+3. Deposit
+4. Withdraw
+5. Balance
+6. Exit
+
+INFO-2023-10-14 07:44:15,818-User entered : 4
+INFO-2023-10-14 07:44:22,491-User entered 8971077273
+INFO-2023-10-14 07:44:22,491-Hansa is an existing user.
+INFO-2023-10-14 07:44:22,492-User's balance is: 2000.0
+INFO-2023-10-14 07:44:27,086-User entered Rs. 1800.0 to withdraw.
+INFO-2023-10-14 07:44:27,087-User withdraw Rs. 1800.0 and balance now is Rs. 200.0
+INFO-2023-10-14 07:44:33,319-PW Banking Menu:
+1. Open Account
+2. Close Account
+3. Deposit
+4. Withdraw
+5. Balance
+6. Exit
+
+INFO-2023-10-14 07:44:33,319-User entered : 5
+INFO-2023-10-14 07:44:38,094-User entered 8971077273
+INFO-2023-10-14 07:44:38,094-User's Balance is 200.0
+INFO-2023-10-14 07:44:45,535-PW Banking Menu:
+1. Open Account
+2. Close Account
+3. Deposit
+4. Withdraw
+5. Balance
+6. Exit
+
+INFO-2023-10-14 07:44:45,535-User entered : 2
+INFO-2023-10-14 07:44:49,998-Checking the user's existence.
+INFO-2023-10-14 07:44:49,998-User is already an existing member of PW Bank.
+INFO-2023-10-14 07:44:49,998-Hansa wants to close the account!
+INFO-2023-10-14 07:44:55,671-PW Banking Menu:
+1. Open Account
+2. Close Account
+3. Deposit
+4. Withdraw
+5. Balance
+6. Exit
+
+INFO-2023-10-14 07:44:55,671-User entered : 6
+INFO-2023-10-14 07:44:55,672-Exiting from Banking Services!
+INFO-2023-10-14 07:45:01,438-Starting Employee Management services.
+INFO-2023-10-14 07:45:01,438-Input the Employee details
+INFO-2023-10-14 07:45:14,364-Initializing the Employee Details: 
+INFO-2023-10-14 07:45:14,364-Employee ID = API2180
+Employee Name = Hansa
+Employee Salary = 114000.0
+INFO-2023-10-14 07:45:14,364-The standard yearly bonus of our esteemed organisation is 10% per annum.
+INFO-2023-10-14 07:45:14,364-Call to calculate the yearly bonus for the salary Rs. 114000.0
+INFO-2023-10-14 07:45:14,364-Bonus Percentage is: 0.1
+INFO-2023-10-14 07:45:14,364-Yearly Bonus is: Rs. 11400.0
+INFO-2023-10-14 07:45:14,364-Total earned bonus for Fiscal Year 2023-2024 is Rs. 11400.0. This is a tax free amount.
+INFO-2023-10-14 07:45:14,364-Call to display the Employee Details.
+INFO-2023-10-14 07:45:14,364-Displaying Employee Details:
+INFO-2023-10-14 07:45:14,364-Employee ID = API2180
+Employee Name = Hansa
+Employee Salary = 114000.0
+INFO-2023-10-14 07:45:14,364-To check if the employee needs to continue again ?
+INFO-2023-10-14 07:45:19,877-Employee entered: yes
+INFO-2023-10-14 07:45:19,877-Starting Employee Management services.
+INFO-2023-10-14 07:45:19,878-Input the Employee details
+INFO-2023-10-14 07:45:32,487-Initializing the Employee Details: 
+INFO-2023-10-14 07:45:32,487-Employee ID = API2181
+Employee Name = Guru
+Employee Salary = 111000.0
+INFO-2023-10-14 07:45:32,487-The standard yearly bonus of our esteemed organisation is 10% per annum.
+INFO-2023-10-14 07:45:32,487-Call to calculate the yearly bonus for the salary Rs. 111000.0
+INFO-2023-10-14 07:45:32,488-Bonus Percentage is: 0.1
+INFO-2023-10-14 07:45:32,488-Yearly Bonus is: Rs. 11100.0
+INFO-2023-10-14 07:45:32,488-Total earned bonus for Fiscal Year 2023-2024 is Rs. 11100.0. This is a tax free amount.
+INFO-2023-10-14 07:45:32,488-Call to display the Employee Details.
+INFO-2023-10-14 07:45:32,488-Displaying Employee Details:
+INFO-2023-10-14 07:45:32,488-Employee ID = API2181
+Employee Name = Guru
+Employee Salary = 111000.0
+INFO-2023-10-14 07:45:32,488-To check if the employee needs to continue again ?
+INFO-2023-10-14 07:45:34,672-Employee entered: no
+INFO-2023-10-14 07:45:34,672-Employee doesn't wish to continue.
+INFO-2023-10-14 07:45:38,814-Starting the PW Vehicle Rental Services.
+DEBUG-2023-10-14 07:45:47,504-Customer's Name = Hansa
+Customer's Mobile Number = 8971077273
+Customer's Age = 26
+INFO-2023-10-14 07:45:47,504-Customer is eligible to rent a vehicle
+DEBUG-2023-10-14 07:45:49,953-Customer's choice = yes
+INFO-2023-10-14 07:45:49,953-Initializing RentalVehicle Class
+INFO-2023-10-14 07:45:49,953-Customer Details are:
+Customer Name = Hansa
+Customer Mobile Number = 8971077273
+INFO-2023-10-14 07:45:49,953-Displaying the Available Vehicles..
+INFO-2023-10-14 07:45:49,954-Categories:
+1. Two Wheeler
+	(i) Gearless Vehicles
+		(a) Yamaha Fascino
+		(b) Honda Activa
+		(c) TVS Jupyter
+	(ii) Gear Vehicles
+		(a) Royal Enfield
+		(b) Hero Splendor
+
+INFO-2023-10-14 07:45:49,954-2. Four Wheeler
+	(i) Maruti Suzuki
+	(ii) Tata Indica
+	(iii) Honda Elevate
+	(iv) Hyundai Creta
+INFO-2023-10-14 07:45:57,066-Starting PW Vehicle Rental Services Menu..
+INFO-2023-10-14 07:46:01,542-Customer's choice: 1
+INFO-2023-10-14 07:46:06,654-Hansa's choice of vehicle is: 2(i)
+INFO-2023-10-14 07:46:06,654-Starting Renting a Vehicle Services .. 
+INFO-2023-10-14 07:46:06,655-Customer entered 2(i). The corresponding Vehicle Chosen is: Maruti Suzuki
+INFO-2023-10-14 07:46:06,655-Updating the vehicle details .. 
+DEBUG-2023-10-14 07:46:06,655-The vehicle details are: {8971077273: 'Maruti Suzuki'}
+INFO-2023-10-14 07:46:06,655-Checking the availability of the vehicle..
+INFO-2023-10-14 07:46:11,661-The Vehicle is available to rent.
+INFO-2023-10-14 07:46:11,661-Ending Renting a Vehicle Services .. 
+INFO-2023-10-14 07:46:11,661-Starting PW Vehicle Rental Services Menu..
+INFO-2023-10-14 07:46:22,014-Customer's choice: 1
+INFO-2023-10-14 07:46:26,662-Hansa's choice of vehicle is: 2(ii)
+INFO-2023-10-14 07:46:26,662-Starting Renting a Vehicle Services .. 
+INFO-2023-10-14 07:46:26,663-Customer entered 2(ii). The corresponding Vehicle Chosen is: Tata Indica
+INFO-2023-10-14 07:46:26,663-Updating the vehicle details .. 
+CRITICAL-2023-10-14 07:46:26,663-Customer needs to return the rented vehicle first. And then can rent another vehicle!
+INFO-2023-10-14 07:46:26,663-Ending Renting a Vehicle Services .. 
+INFO-2023-10-14 07:46:26,663-Starting PW Vehicle Rental Services Menu..
+INFO-2023-10-14 07:46:36,921-Customer's choice: 2
+DEBUG-2023-10-14 07:46:40,989-Customer's mobile number: 8971077273
+INFO-2023-10-14 07:46:40,989-Starting Returning a Vehicle Services .. 
+INFO-2023-10-14 07:46:40,989-Customer has rented 'Maruti Suzuki'
+INFO-2023-10-14 07:46:40,990-Checking for the vehicle condition..
+INFO-2023-10-14 07:46:45,995-Customer returns the Vehicle in Good condition.
+DEBUG-2023-10-14 07:46:45,996-Deleting the Rented Vehicle details from the dictionary.
+INFO-2023-10-14 07:46:45,996-Ending Returning a Vehicle Services .. 
+INFO-2023-10-14 07:46:45,996-Starting PW Vehicle Rental Services Menu..
+INFO-2023-10-14 07:46:52,560-Customer's choice: 3
+INFO-2023-10-14 07:46:52,560-Displaying vehicle details.
+INFO-2023-10-14 07:46:52,560-Displaying the Available Vehicles..
+INFO-2023-10-14 07:46:52,560-Categories:
+1. Two Wheeler
+	(i) Gearless Vehicles
+		(a) Yamaha Fascino
+		(b) Honda Activa
+		(c) TVS Jupyter
+	(ii) Gear Vehicles
+		(a) Royal Enfield
+		(b) Hero Splendor
+
+INFO-2023-10-14 07:46:52,560-2. Four Wheeler
+	(i) Maruti Suzuki
+	(ii) Tata Indica
+	(iii) Honda Elevate
+	(iv) Hyundai Creta
+INFO-2023-10-14 07:46:52,560-Starting PW Vehicle Rental Services Menu..
+INFO-2023-10-14 07:46:55,519-Customer's choice: 4
+INFO-2023-10-14 07:46:55,519-Customer does want to exit!
+INFO-2023-10-14 07:47:02,868-Customer's choice = no
+INFO-2023-10-14 07:47:08,679-Starting Library Catalog Services.
+INFO-2023-10-14 07:47:08,680-Displaying rules and regulations of PW Library.
+INFO-2023-10-14 07:47:08,680-Call to start the PW Library Catalog Services..
+INFO-2023-10-14 07:47:18,821-Starting Library Menu
+INFO-2023-10-14 07:47:28,010-Donated 2 books to the library. Your contribution Makes a Difference!
+INFO-2023-10-14 07:47:28,011-Starting Library Menu
+INFO-2023-10-14 07:47:31,809-Displaying books contributed.
+INFO-2023-10-14 07:47:31,809-Starting Library Menu
+INFO-2023-10-14 07:47:50,039-Donated 2 books to the library. Your contribution Makes a Difference!
+INFO-2023-10-14 07:47:50,040-Starting Library Menu
+INFO-2023-10-14 07:47:51,967-Displaying books contributed.
+INFO-2023-10-14 07:47:51,967-Starting Library Menu
+INFO-2023-10-14 07:48:10,292-Borrowed the book 'DSA' from the library.
+INFO-2023-10-14 07:48:10,293-Starting Library Menu
+INFO-2023-10-14 07:48:15,611-Borrowed the book 'DA' from the library.
+INFO-2023-10-14 07:48:15,612-Starting Library Menu
+INFO-2023-10-14 07:48:18,777-Displaying books contributed.
+INFO-2023-10-14 07:48:18,777-Starting Library Menu
+INFO-2023-10-14 07:48:27,218-Borrowed the book 'Python' from the library.
+INFO-2023-10-14 07:48:27,219-Starting Library Menu
+INFO-2023-10-14 07:48:42,759-Returned a book to the library for Aadhaar number: 1234567.
+INFO-2023-10-14 07:48:42,759-Starting Library Menu
+INFO-2023-10-14 07:48:46,320-Displaying books contributed.
+INFO-2023-10-14 07:48:46,320-Starting Library Menu
+INFO-2023-10-14 07:48:54,068-Starting Library Menu
+INFO-2023-10-14 07:48:56,583-Displaying books contributed.
+INFO-2023-10-14 07:48:56,584-Starting Library Menu
+INFO-2023-10-14 07:49:02,244-Returned a book to the library for Aadhaar number: 1234567.
+INFO-2023-10-14 07:49:02,245-Starting Library Menu
+INFO-2023-10-14 07:49:04,087-Displaying books contributed.
+INFO-2023-10-14 07:49:04,087-Starting Library Menu
+INFO-2023-10-14 07:49:06,978-Exiting Library Catalog Menu.
+INFO-2023-10-14 07:49:11,885-Starting the product inventory application
+INFO-2023-10-14 07:49:11,885-Starting Product Inventory Menu.
+INFO-2023-10-14 07:49:27,876-Initializing Product class
+INFO-2023-10-14 07:49:27,876-Adding product to the inventory
+DEBUG-2023-10-14 07:49:27,876-Products: [<__main__.Product object at 0x7fcb0c4f2620>]
+INFO-2023-10-14 07:49:27,876-Initializing the string
+INFO-2023-10-14 07:49:27,876-Added product to inventory: Laptop (ID: 100) - Price: Rs. 43000.0, Total available Quantity: 20
+INFO-2023-10-14 07:49:27,876-Starting Product Inventory Menu.
+INFO-2023-10-14 07:49:42,939-Initializing Product class
+INFO-2023-10-14 07:49:42,939-Adding product to the inventory
+DEBUG-2023-10-14 07:49:42,939-Products: [<__main__.Product object at 0x7fcb0c4f2620>, <__main__.Product object at 0x7fcb0c4f34f0>]
+INFO-2023-10-14 07:49:42,939-Initializing the string
+INFO-2023-10-14 07:49:42,939-Added product to inventory: Phone (ID: 102) - Price: Rs. 20000.0, Total available Quantity: 20
+INFO-2023-10-14 07:49:42,940-Starting Product Inventory Menu.
+INFO-2023-10-14 07:49:45,739-Initializing the string
+INFO-2023-10-14 07:49:45,739-Initializing the string
+INFO-2023-10-14 07:49:45,739-Starting Product Inventory Menu.
+ERROR-2023-10-14 07:49:59,561-Please enter numerical value
+INFO-2023-10-14 07:50:20,747-Updating the quantity of the product.
+DEBUG-2023-10-14 07:50:22,457-Product Owner's choice: add
+INFO-2023-10-14 07:50:22,457-Updated product quantity for product ID 100 by 10.
+INFO-2023-10-14 07:50:22,458-Starting Product Inventory Menu.
+INFO-2023-10-14 07:50:25,423-Initializing the string
+INFO-2023-10-14 07:50:25,423-Initializing the string
+INFO-2023-10-14 07:50:25,423-Starting Product Inventory Menu.
+INFO-2023-10-14 07:50:38,033-Updating the quantity of the product.
+DEBUG-2023-10-14 07:50:42,414-Product Owner's choice: remove
+INFO-2023-10-14 07:50:42,414-Updated product quantity for product ID 102 by 20.
+INFO-2023-10-14 07:50:42,414-Starting Product Inventory Menu.
+INFO-2023-10-14 07:50:44,136-Initializing the string
+INFO-2023-10-14 07:50:44,136-Starting Product Inventory Menu.
+INFO-2023-10-14 07:50:53,136-Updating the quantity of the product.
+DEBUG-2023-10-14 07:50:55,578-Product Owner's choice: remove
+INFO-2023-10-14 07:50:55,578-Updated product quantity for product ID 100 by 30.
+INFO-2023-10-14 07:50:55,578-Starting Product Inventory Menu.
+INFO-2023-10-14 07:50:57,298-Starting Product Inventory Menu.
+INFO-2023-10-14 07:50:59,224-Exiting Product Inventory Menu.
+INFO-2023-10-14 07:51:03,708-Starting shape application .. 
+INFO-2023-10-14 07:51:07,351-Starting the shape menu.
+INFO-2023-10-14 07:51:10,014-User selected Rectangle.
+INFO-2023-10-14 07:51:10,014-Starting the shape menu.
+INFO-2023-10-14 07:51:12,326-User selected Square.
+INFO-2023-10-14 07:51:12,326-Starting the shape menu.
+INFO-2023-10-14 07:51:15,174-User selected Triangle.
+INFO-2023-10-14 07:51:15,175-Starting the shape menu.
+INFO-2023-10-14 07:51:18,856-User selected Circle.
+INFO-2023-10-14 07:51:18,857-Starting the shape menu.
+INFO-2023-10-14 07:51:24,664-Starting Student management services.
+INFO-2023-10-14 07:51:41,510-Intializing student management class ..
+INFO-2023-10-14 07:51:43,925-Adding grade to student's record.
+DEBUG-2023-10-14 07:51:43,925-Student Grades = [100.0]
+INFO-2023-10-14 07:51:45,363-Adding grade to student's record.
+DEBUG-2023-10-14 07:51:45,363-Student Grades = [100.0, 98.0]
+INFO-2023-10-14 07:51:46,401-Adding grade to student's record.
+DEBUG-2023-10-14 07:51:46,401-Student Grades = [100.0, 98.0, 99.0]
+INFO-2023-10-14 07:51:47,830-Adding grade to student's record.
+DEBUG-2023-10-14 07:51:47,830-Student Grades = [100.0, 98.0, 99.0, 200.0]
+INFO-2023-10-14 07:51:47,830-Displaying the student details.
+INFO-2023-10-14 07:51:47,830-Calculating the average grade of Hansa
+DEBUG-2023-10-14 07:51:47,830-The average grade of Hansa is 124.25
+INFO-2023-10-14 07:51:55,352-Starting Student management services.
+INFO-2023-10-14 07:52:12,493-Intializing student management class ..
+INFO-2023-10-14 07:52:14,096-Adding grade to student's record.
+DEBUG-2023-10-14 07:52:14,096-Student Grades = [100.0]
+INFO-2023-10-14 07:52:15,312-Adding grade to student's record.
+DEBUG-2023-10-14 07:52:15,312-Student Grades = [100.0, 98.0]
+INFO-2023-10-14 07:52:16,187-Adding grade to student's record.
+DEBUG-2023-10-14 07:52:16,187-Student Grades = [100.0, 98.0, 99.0]
+INFO-2023-10-14 07:52:17,281-Adding grade to student's record.
+DEBUG-2023-10-14 07:52:17,281-Student Grades = [100.0, 98.0, 99.0, 99.0]
+INFO-2023-10-14 07:52:17,281-Displaying the student details.
+INFO-2023-10-14 07:52:17,282-Calculating the average grade of Guru
+DEBUG-2023-10-14 07:52:17,282-The average grade of Guru is 99.0
+INFO-2023-10-14 07:52:34,561-Starting email management services ..
+INFO-2023-10-14 07:53:04,536-Initializing EmailManagement class
+INFO-2023-10-14 07:53:36,447-Starting sending an email services .. 
+INFO-2023-10-14 07:53:36,447-Ending sending an email services
+INFO-2023-10-14 07:53:36,447-Starting displaying email details .. 
+INFO-2023-10-14 07:53:36,447-Ending displaying email details .. 
+INFO-2023-10-14 07:53:36,447-Ending email management services ..
+INFO-2023-10-14 07:54:07,668-Starting PW SocialMediaProfile .. 
+DEBUG-2023-10-14 07:54:14,336-Username = hansa_s_goud
+INFO-2023-10-14 07:54:14,336-Initializing SocialMediaProfile class
+INFO-2023-10-14 07:54:26,777-Starting Adding Post contents
+DEBUG-2023-10-14 07:54:26,778-Posts of hansa_s_goud are
+['Office Work!']
+INFO-2023-10-14 07:54:26,778-Ending Adding Post contents
+INFO-2023-10-14 07:54:31,323-Starting Adding Post contents
+DEBUG-2023-10-14 07:54:31,324-Posts of hansa_s_goud are
+['Office Work!', 'Coffee World!']
+INFO-2023-10-14 07:54:31,324-Ending Adding Post contents
+INFO-2023-10-14 07:54:41,919-Starting Adding Post contents
+DEBUG-2023-10-14 07:54:41,919-Posts of hansa_s_goud are
+['Office Work!', 'Coffee World!', 'Sunkissed!']
+INFO-2023-10-14 07:54:41,919-Ending Adding Post contents
+INFO-2023-10-14 07:54:41,919-Starting displaying all the posts
+DEBUG-2023-10-14 07:54:41,919-All Posts is: ['Office Work!', 'Coffee World!', 'Sunkissed!']
+INFO-2023-10-14 07:54:41,919-Ending displaying all the posts
+INFO-2023-10-14 07:54:47,661-Starting displaying posts by keyword .. 
+DEBUG-2023-10-14 07:54:47,661-
+Searched Posts: ['Office Work!']
+INFO-2023-10-14 07:54:47,661-Ending displaying posts by keyword .. 
+INFO-2023-10-14 07:54:47,661-Ending PW SocialMediaProfile .. 
+INFO-2023-10-14 07:54:54,286-Starting the PW ToDo Services.
+INFO-2023-10-14 07:54:54,286-Initializing TODOList Class
+DEBUG-2023-10-14 07:54:57,880-User's name = Hansa
+INFO-2023-10-14 07:54:57,880-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:55:00,693-User's choice = 1
+INFO-2023-10-14 07:55:15,784-Starting adding task to list services .. 
+DEBUG-2023-10-14 07:55:15,784-Task List: [{'Task': 'Clean Puja Room', 'Due Date': datetime.date(2023, 10, 14), 'Completed': False}]
+INFO-2023-10-14 07:55:15,784-Ending adding task to list services ..
+INFO-2023-10-14 07:55:39,191-Starting adding task to list services .. 
+DEBUG-2023-10-14 07:55:39,191-Task List: [{'Task': 'Clean Puja Room', 'Due Date': datetime.date(2023, 10, 14), 'Completed': False}, {'Task': 'Go to temple', 'Due Date': datetime.date(2023, 10, 14), 'Completed': False}]
+INFO-2023-10-14 07:55:39,191-Ending adding task to list services ..
+INFO-2023-10-14 07:55:54,894-Starting adding task to list services .. 
+DEBUG-2023-10-14 07:55:54,894-Task List: [{'Task': 'Clean Puja Room', 'Due Date': datetime.date(2023, 10, 14), 'Completed': False}, {'Task': 'Go to temple', 'Due Date': datetime.date(2023, 10, 14), 'Completed': False}, {'Task': 'Prepare Chapathi', 'Due Date': datetime.date(2023, 10, 14), 'Completed': False}]
+INFO-2023-10-14 07:55:54,894-Ending adding task to list services ..
+INFO-2023-10-14 07:55:54,894-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:55:58,774-User's choice = 3
+INFO-2023-10-14 07:55:58,774-Starting Displaying of tasks services .. 
+INFO-2023-10-14 07:55:58,775-Ending Displaying of tasks services .. 
+INFO-2023-10-14 07:55:58,775-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:56:02,355-User's choice = 2
+INFO-2023-10-14 07:56:10,238-Starting Marking Tasks as Completed services..
+INFO-2023-10-14 07:56:10,239-User entered the task_description that is matched. Marked the Completed status to True
+INFO-2023-10-14 07:56:10,239-Ending Marking Tasks as Completed services..
+INFO-2023-10-14 07:56:10,239-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:56:13,900-User's choice = 2
+INFO-2023-10-14 07:56:23,127-Starting Marking Tasks as Completed services..
+INFO-2023-10-14 07:56:23,127-User entered the task_description that is matched. Marked the Completed status to True
+INFO-2023-10-14 07:56:23,128-Ending Marking Tasks as Completed services..
+INFO-2023-10-14 07:56:23,128-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:56:24,827-User's choice = 3
+INFO-2023-10-14 07:56:24,827-Starting Displaying of tasks services .. 
+INFO-2023-10-14 07:56:24,827-Ending Displaying of tasks services .. 
+INFO-2023-10-14 07:56:24,827-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:56:32,004-User's choice = 2
+INFO-2023-10-14 07:56:33,131-Starting Marking Tasks as Completed services..
+INFO-2023-10-14 07:56:33,131-User entered the task_description that is matched. Marked the Completed status to True
+INFO-2023-10-14 07:56:33,132-Ending Marking Tasks as Completed services..
+INFO-2023-10-14 07:56:33,132-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:56:34,946-User's choice = 3
+INFO-2023-10-14 07:56:34,946-Starting Displaying of tasks services .. 
+INFO-2023-10-14 07:56:34,946-Ending Displaying of tasks services .. 
+INFO-2023-10-14 07:56:34,946-Starting PW Todo services menu .. 
+DEBUG-2023-10-14 07:56:37,126-User's choice = 4
+INFO-2023-10-14 07:56:37,126-Exit the Service!
